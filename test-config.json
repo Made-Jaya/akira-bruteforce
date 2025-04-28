@@ -1,0 +1,14 @@
+{
+    "start_timestamp": 1739876543000000000,
+    "count": 500000,
+    "offset": 5000,
+    "brute_force_time_range": 10000,
+    "matches": [
+        {
+            "plaintext": "0x0000000000000000",
+            "encrypted": "0x1234567890ABCDEF",
+            "bitmask": "0xFFFFFFFFFFFFFFFF",
+            "filename": "test.bin"
+        }
+    ]
+}

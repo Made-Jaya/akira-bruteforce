@@ -1,0 +1,2 @@
+Found at offset 1111836 found = 35496805474442243 ts = 1741841294360506186 file = tests/config-test.json, match_index = 1 file: ones.vmdk
+Found at offset 1138967 found = 276827788028221185 ts = 1741841294374553498 file = tests/config-test.json, match_index = 0 file: zeroes.vmdk

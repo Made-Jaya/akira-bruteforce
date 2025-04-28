@@ -1,0 +1,21 @@
+{
+    "brute_force_time_range": 30000,
+    "count": 20000000,
+    "index": 29900,
+    "matches": [
+        {
+            "bitmask": "  0xffffffffffffffff",
+            "encrypted": "0xd5b71efb8d6969e5",
+            "filename": "zeroes.vmdk",
+            "plaintext": "0x0000000000000000"
+        },
+        {
+            "bitmask": "  0xffffffffffffffff",
+            "encrypted": "0x9d1c37f111077987",
+            "filename": "ones.vmdk",
+            "plaintext": "0x0101010101010101"
+        }
+    ],
+    "offset": 1140900,
+    "start_timestamp": 1741841294358440000
+}
